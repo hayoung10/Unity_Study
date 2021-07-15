@@ -9,11 +9,11 @@
 ###### 4가지 게임 구현
 
 ## 1. 탄막 슈팅 게임 : Dodge
-<img src="/Dodge/Screenshots/Screenshots1.jpg" width="400">
+<img src="./Dodge/Screenshots/Screenshots1.jpg" width="400">
 사방에서 무수히 날아오는 탄알을 피하며 가능한 한 오랫동안 버티는 게임
 
 ## 2. 2D 러너 게임 : Uni-Run
-<img src="/Uni-Run/Screenshots/Screenshots1.jpg" width="400">
+<img src="./Uni-Run/Screenshots/Screenshots1.jpg" width="400">
 랜덤한 높이로 무한 생성되는 바닥을 점프하면서 앞으로 달려가는 러너 게임
 
 ## 3. 탑 다운 슈터 게임 : Zombie (Surviver)
