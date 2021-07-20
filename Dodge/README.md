@@ -6,7 +6,7 @@
 ###### 4가지 게임 구현
 
 ## 1. 탄막 슈팅 게임 : Dodge  
-<img src="./Screenshots/Screenshots1.jpg" width="400"> <img src=".Screenshots/Screenshots2.jpg" width="400">  
+<img src="./Screenshots/Screenshots1.jpg" width="400"> <img src="./Screenshots/Screenshots2.jpg" width="400">  
 사방에서 무수히 날아오는 탄알을 피하며 가능한 한 오랫동안 버티는 게임
 
 ##### 설명/동작/기능
