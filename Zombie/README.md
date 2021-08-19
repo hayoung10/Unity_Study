@@ -6,7 +6,10 @@
 ###### 4가지 게임 구현
 
 ## 3. 탑 다운 슈터 게임 : Zombie (Surviver)
-<img>  
+img  
+- 메인 화면 (좀비와 플레이어 함께 & score)
+- 빨간 좀비
+- 아이템
 끊임없이 나타나는 좀비들로부터 최대한 오래 살아남는 탑 다운 슈터 게임
 
 ##### 설명/동작/기능
@@ -38,6 +41,5 @@
 - 레이캐스트 Raycast
 - 델리게이트 delegate =대리자
 - 이벤트 Event / 이벤트 리스너 Event Listener
-- 
 - 내비게이션 Navigation 시스템
 - 포스트 프로세싱 Post Process =후처리
