@@ -31,7 +31,7 @@
 ## 4. 네트워크 협동 게임 : Zombie (Surviver) Multiplayer
 좀비 서바이버 게임을 포톤을 사용한 멀티플레이어 게임으로 포팅함
 
-###### Zombie Multiplayer - [README.md](./Zombie Multiplayer/README.md)
+###### Zombie Multiplayer - [README.md](./Zombie_Multiplayer/README.md)
 <br>
 
 
